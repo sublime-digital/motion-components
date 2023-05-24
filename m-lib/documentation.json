@@ -9,7 +9,7 @@
     "components": [
         {
             "name": "AppComponent",
-            "id": "component-AppComponent-aa6c4f9b25e72538a0a94a4774ddf2b88f8e9bceca6ada0ddcbff995ce6741d8e6c243786651df6fb6e146a6b89ec30b7d95b666be6c60b8300755ffe4593430",
+            "id": "component-AppComponent-c1ec274f40db15ebcfb90b66357ce3b20e85f36598366c05a5b46abee5777aa2ab6f3640d4819ec36fedcbf12aaaff4e46656e1cdbd59af2184c13ff6d934486",
             "file": "src/app/app.component.ts",
             "encapsulation": [],
             "entryComponents": [],
@@ -18,7 +18,7 @@
             "providers": [],
             "selector": "app-root",
             "styleUrls": [
-                "./app.component.less"
+                "./app.component.css"
             ],
             "styles": [],
             "templateUrl": [
@@ -50,12 +50,12 @@
             "description": "",
             "rawdescription": "\n",
             "type": "component",
-            "sourceCode": "import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-root',\n  templateUrl: './app.component.html',\n  styleUrls: ['./app.component.less']\n})\nexport class AppComponent {\n  title = 'm-lib';\n}\n",
+            "sourceCode": "import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-root',\n  templateUrl: './app.component.html',\n  styleUrls: ['./app.component.css']\n})\nexport class AppComponent {\n  title = 'm-lib';\n}\n",
             "assetsDirs": [],
             "styleUrlsData": [
                 {
                     "data": "",
-                    "styleUrl": "./app.component.less"
+                    "styleUrl": "./app.component.css"
                 }
             ],
             "stylesData": "",
